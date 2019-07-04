@@ -1,0 +1,1 @@
+mongod --storageEngine mmapv1 --port 8000
